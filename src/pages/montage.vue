@@ -101,6 +101,32 @@
             <p class="text-base text-gray-700 mb-4">
               Connectez le capteur HC-SR04 à l'Arduino Uno.
             </p>
+                        <table class="w-full border border-black mt-4 text-sm text-gray-800">
+              <thead>
+                <tr>
+                  <th class="border border-black px-4 py-2 text-left font-semibold">
+                    Signal
+                  </th>
+                  <th class="border border-black px-4 py-2 text-left font-semibold">
+                    Arduino / Valeur
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="border border-black px-4 py-2">VCC</td>
+                  <td class="border border-black px-4 py-2">5V</td>
+                </tr>
+                <tr>
+                  <td class="border border-black px-4 py-2">GND</td>
+                  <td class="border border-black px-4 py-2">GND</td>
+                </tr>
+                <tr>
+                  <td class="border border-black px-4 py-2">TRIG</td>
+                  <td class="border border-black px-4 py-2">D8</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
 
