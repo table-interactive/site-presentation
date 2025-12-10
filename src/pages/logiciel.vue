@@ -11,7 +11,7 @@
         <h2
           class="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-3"
         >
-          Stack Technologique
+          Pile Technologique
         </h2>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -36,12 +36,6 @@
               <li class="flex items-start gap-2">
                 <span class="text-blue-600 font-bold">•</span>
                 <div><strong>Vite 7.2.4</strong> - Outil de build</div>
-              </li>
-              <li class="flex items-start gap-2">
-                <span class="text-blue-600 font-bold">•</span>
-                <div>
-                  <strong>Axios</strong> - Client HTTP pour les requêtes API
-                </div>
               </li>
             </ul>
           </div>
@@ -144,7 +138,7 @@
             </h3>
             <p class="text-gray-700 mb-3">
               FastAPI gère les requêtes HTTP des capteurs matériels et
-              synchronise l'état du jeu entre plusieurs clients potentiels.
+              synchronise l'état du jeu entre les actions des joueurs et l'affichage.
             </p>
             <ul class="list-disc pl-6 text-gray-700 space-y-1">
               <li>Validation automatique des données</li>
@@ -476,11 +470,11 @@ parser.on('data', (line) => {
             <strong>Dépôt GitHub :</strong> Le code complet du projet est
             disponible sur
             <a
-              href="hhttps://github.com/table-interactive"
+              href="https://github.com/orgs/table-interactive/repositories"
               target="_blank"
               class="text-blue-600 underline hover:text-blue-800"
             >
-              github.com/table-interactive/tower-defense-app
+              github.com/orgs/table-interactive/repositories
             </a>
           </p>
         </div>
