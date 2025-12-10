@@ -317,8 +317,7 @@
           </div>
           <div class="bg-white p-6 rounded-lg mb-4">
             <p class="text-base text-gray-700 mb-4">
-              Installez et configurez le logiciel du jeu Tower Defense sur le
-              Raspberry Pi.
+              Préparation du site et des scripts pour jouer.
             </p>
             <ol class="list-decimal pl-6 text-base text-gray-700 space-y-2">
               <li>
